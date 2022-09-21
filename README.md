@@ -1,3 +1,2 @@
-# torsdags_opg_uge_38
-
+Torsdagsopgaver3-base-class-operations
 Mikkel Hasselmark
